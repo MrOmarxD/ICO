@@ -1,0 +1,5 @@
+0000 2122  ;LLI r1, H'22 ;línea 2 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio4.asm
+0001 3122  ;LHI r1, H'22 ;línea 3 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio4.asm
+0002 A100  ;SHR r1 ;línea 4 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio4.asm
+0003 2D00  ;LLI rD, H'00 ;línea 5 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio4.asm
+0004 1120  ;ST [rD + H'20], r1 ;línea 6 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio4.asm

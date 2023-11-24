@@ -1,0 +1,6 @@
+Dirección;Código máquina;Código fuente
+0000;2122;LLI r1,H'22
+0001;3122;LHI r1,H'22
+0002;A100;SHR r1
+0003;2D00;LLI rD,H'00
+0004;1120;ST [H'20],r1

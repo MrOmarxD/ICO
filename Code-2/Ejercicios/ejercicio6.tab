@@ -1,0 +1,6 @@
+Dirección;Código máquina;Código fuente
+0000;2D44;LLI rd,H'44
+0001;3D23;LHI rd,H'23
+0002;7000;SUBS r0,r0,r0
+0003;D100;CALLZ
+0004;5001;OUT OP1,r0

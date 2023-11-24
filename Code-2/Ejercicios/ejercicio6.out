@@ -1,0 +1,5 @@
+: 02 0000 00 2D44 A4 ;LLI rD, H'44 ;línea 2 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio6.asm
+: 02 0001 00 3D23 94 ;LHI rD, H'23 ;línea 3 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio6.asm
+: 02 0002 00 7000 A5 ;SUBS r0, r0, r0 ;línea 4 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio6.asm
+: 02 0003 00 D100 07 ;CALLZ ;línea 5 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio6.asm
+: 02 0004 00 5001 88 ;OUT OP01, r0 ;línea 7 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio6.asm

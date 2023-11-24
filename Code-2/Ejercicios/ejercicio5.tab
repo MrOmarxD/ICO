@@ -1,0 +1,4 @@
+Dirección;Código máquina;Código fuente
+0000;2D34;LLI rD,H'34
+0001;3D12;LHI rD,H'12
+0002;7100;SUBS r1,r0,r0

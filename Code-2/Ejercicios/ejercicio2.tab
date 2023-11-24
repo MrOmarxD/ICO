@@ -1,0 +1,6 @@
+Dirección;Código máquina;Código fuente
+0000;20B3;LLI r0,H'B3
+0001;3028;LHI r0,H'28
+0002;21AC;LLI r1,H'AC
+0003;3134;LHI r1,H'34
+0004;6601;ADDS r6,r0,r1

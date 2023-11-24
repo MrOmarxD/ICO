@@ -1,0 +1,4 @@
+0000 20B3  ;LLI r0, H'B3 ;línea 2 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio1.asm
+0001 3028  ;LHI r0, H'28 ;línea 3 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio1.asm
+0002 21AC  ;LLI r1, H'AC ;línea 4 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio1.asm
+0003 6201  ;ADDS r2, r0, r1 ;línea 6 en C:\Users\omar.e\OneDrive - Universidad de Deusto\Escritorio\Uni\ICO\Code-2\Ejercicios\ejercicio1.asm
